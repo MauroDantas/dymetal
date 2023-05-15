@@ -1,6 +1,6 @@
 ## Dymetal
 
-Eu realizei um trabalho informal no qual estabeleci um site de apresentação para uma empresa que vendia móveis. 
+Realizei um trabalho freelancer no qual estabeleci um site de apresentação para uma empresa que vendia móveis. 
 Meu trabalho consistia em cuidar do cadastro dos produtos no site, criando descrições detalhadas e adicionando imagens de qualidade. 
 Além disso, eu também trabalhei para estabelecer um link entre o site e as formas de pagamento, garantindo que os clientes pudessem realizar 
 suas compras com facilidade e segurança. Durante esse processo, eu também forneci orientação à empresa 
