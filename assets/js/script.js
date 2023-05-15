@@ -12,6 +12,26 @@ const addEventOnElements = function (elements, eventType, callback) {
   }
 }
 
+/*const EmailDiretoria = document.getElementById("email-diretoria");
+
+EmailDiretoria.addEventListener("click", () => {
+  event.preventDefault()
+  window.location.href = "mailto:diretoria@dymetal.com.br";
+});
+
+const EmailSuporte = document.getElementById("email-suporte");
+
+EmailDiretoria.addEventListener("click", () => {
+  event.preventDefault()
+  window.location.href = "mailto:suporte@dymetal.com.br";
+});
+
+const EmailVendas = document.getElementById("email-vendas");
+
+EmailDiretoria.addEventListener("click", () => {
+  event.preventDefault()
+  window.location.href = "mailto:vendas@dymetal.com.br";
+}); */
 
 
 /**
