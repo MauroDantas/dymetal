@@ -232,6 +232,18 @@ body.nav-active { overflow: hidden; }
   will-change: transform;
 }
 
+.btn2 {
+  color: var(--white);
+  font-size: var(--fs-6);
+  font-weight: var(--fw-700);
+  border: 2px solid var(--white);
+  max-width: max-content;
+  padding: 12px 28px;
+  border-radius: var(--radius-pill);
+  transition: var(--transition-1);
+  will-change: transform;
+}
+
 .btn:is(:hover, :focus-visible) { transform: translateY(-4px); }
 
 .btn-primary,
@@ -678,6 +690,14 @@ body.nav-active { overflow: hidden; }
   align-items: center;
   gap: 4px;
   color: var(--cadet-blue-crayola);
+  font-size: var(--fs-8);
+}
+
+.card-meta-item2{
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  color: var(--charcoal);
   font-size: var(--fs-8);
 }
 
